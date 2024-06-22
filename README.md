@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Israa Mohamed 👋</h1>
 
-<p align="center">
-  Welcome to my GitHub profile! I'm a <strong>Computer Science student</strong> at the Faculty of Computers and Artificial Intelligence, Cairo University.
-</p>
+<h3 align="center">
+  Welcome to my GitHub profile! I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University.
+</h3>
 
 <h3>📫 How to reach me:</h3>
 <p>
