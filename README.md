@@ -17,3 +17,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-left:20px;" />
   </a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraaXx&show_icons=true&locale=en" alt="IsraaXx" /></p>
