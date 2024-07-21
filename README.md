@@ -5,12 +5,13 @@
 </h3>
 <p>As a second-year student at the Faculty of Computers and Artificial Intelligence, Cairo University, I have a burgeoning interest in web development and data analysis. Passionate about learning and exploring innovative solutions in these dynamic fields, I am eager to collaborate on creative projects and learn from like-minded individuals. Open to internships, projects, and networking opportunities, I am looking forward to contributing and growing in this industry.</p>  
 
-## Connect with me :
-<p align="left">
-  <a href="https://www.linkedin.com/in/israa-mohamed-580012260/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 20px;" />
+## Connect with me
+
+<p align="left" style="margin: 0; padding: 0;">
+  <a href="https://www.linkedin.com/in/israa-mohamed-580012260/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
   </a>
   <a href="mailto:saramohamed2315@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="margin-left: 20px;"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="vertical-align: middle;" />
   </a>
 </p>
