@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/israa-mohamed-580012260/" target="_blank" style="display: inline-block; margin-right: 20px;">
     <img align="center"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="display: block; margin: 0 auto;" />
   </a>
-  <a href="mailto:saramohamed2315@gmail.com" style="display: inline-block; text-align: center;">
-    <img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="display: block; margin: 0 auto;" />
+  <a href="mailto:saramohamed2315@gmail.com" style="display: inline-block;">
+    <img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="display: block; margin-left: 10 auto;" />
   </a>
 </p>
