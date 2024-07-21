@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Israa Mohamed 👋🏻</h1> 
+<h1 align="center" style="background-color:f75c7e;padding:20px;border-radius:10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Israa+Mohamed;" />
+</h1>
 
 <h3 align="center">
   Welcome to my GitHub profile! I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University.
@@ -11,7 +13,6 @@
   <a href="https://www.linkedin.com/in/israa-mohamed-580012260/" target="_blank" style="display: block; margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
   </a>
-  <br>
   <a href="mailto:saramohamed2315@gmail.com" style="display: block; margin-left: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-left:20px;" />
   </a>
