@@ -21,7 +21,7 @@
 
 <div align='center'>
 
-<div style="display: inline-block; margin-right: 10px;">
+<div style="display: inline-block; margin-right: 100px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
     <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
