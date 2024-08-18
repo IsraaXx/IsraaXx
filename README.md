@@ -19,4 +19,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IsraaXx&show_icons=true&locale=en" alt="IsraaXx" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
+</picture>
