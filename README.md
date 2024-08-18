@@ -18,21 +18,21 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-left:30px;" />
   </a>
 </p>
+
 <div align='center'>
-
-<div style="float: left; margin-right: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
-    <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
-  </picture>
-</div>
-
-<div style="float: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&theme=tokyonight" alt="Top Langs">
-</div>
-
-<div style="clear: both;"></div>
-
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
+      </picture>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&theme=tokyonight" alt="Top Langs">
+    </td>
+  </tr>
+</table>
 </div>
 
 
