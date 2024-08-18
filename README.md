@@ -20,12 +20,18 @@
 </p>
 
 <div align='center'>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
-</picture>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&theme=tokyonight)
-
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
+        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
+      </picture>
+    </td>
+    <td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&theme=tokyonight)
+    </td>
+  </tr>
+</table>
 </div>
+
