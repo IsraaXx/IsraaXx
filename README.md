@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,visualstudio,vscode)](https://skillicons.dev)
