@@ -23,7 +23,7 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,visualstudio,vscode)](https://skillicons.dev)
-![SQL Server](https://example.com/sql-server-icon.png)
+
 <div align='center'>
 <table>
   <tr>
