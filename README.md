@@ -34,6 +34,16 @@
   </tr>
 </table>
 </div>
+<br>
+<div align="center">
+  <br/><p align="centre"><b>Profile Views</b></p>  
+  <p align="center">
+    <a href="https://profile-counter.glitch.me/IsraaXx/count.svg">
+  <img align="center" src="https://profile-counter.glitch.me/IsraaXx/count.svg" />
+      </a>
+  </p>
+  <br/>
+</div>
 
 
 
