@@ -10,7 +10,10 @@
 ## Connect with me
 
 <p align="left" style="margin: 0; padding: 0;">
-  [![LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/israamohamed-/)
+  <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank" style="display: block; margin-right: 10px;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
+      &nbsp;&nbsp;
+  </a>
   <a href="mailto:saramohamed2315@gmail.com" style="display: block; margin-left: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-left:30px;" />
   </a>
