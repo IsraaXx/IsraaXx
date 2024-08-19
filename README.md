@@ -23,6 +23,8 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,clion,visualstudio,vscode)](https://skillicons.dev)
+<img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
+<br/>
 
 <div align='center'>
 <table>
