@@ -22,7 +22,7 @@
 ## Languages and Tools:
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,clion,visualstudio,vscode)](https://skillicons.dev)
 
 <div align='center'>
 <table>
