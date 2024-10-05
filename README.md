@@ -5,7 +5,7 @@
 <h3 align="center">
  I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University.
 </h3> 
-<p>As a second-year student at the Faculty of Computers and Artificial Intelligence, Cairo University, I have a burgeoning interest in web development and data analysis. Passionate about learning and exploring innovative solutions in these dynamic fields, I am eager to collaborate on creative projects and learn from like-minded individuals. Open to internships, projects, and networking opportunities, I am looking forward to contributing and growing in this industry.</p>  
+<p>As a third-year student at the Faculty of Computers and Artificial Intelligence, Cairo University, I have a burgeoning interest in web development, data analysis, BI development and data science. Passionate about learning and exploring innovative solutions in these dynamic fields, I am eager to collaborate on creative projects and learn from like-minded individuals. Open to internships, projects, and networking opportunities, I am looking forward to contributing and growing in this industry.</p>  
 
 ## Connect with me
 
