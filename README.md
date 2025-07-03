@@ -1,48 +1,61 @@
-<h1 align="center" style="background-color:f75c7e;padding:20px;border-radius:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&color=f75c7e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Israa+Mohamed;" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&color=f75c7e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Israa+Mohamed;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
- I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University.
-</h3> 
-<p>As a third-year student at the Faculty of Computers and Artificial Intelligence, Cairo University, I have a burgeoning interest in web development, data analysis, BI development and data science. Passionate about learning and exploring innovative solutions in these dynamic fields, I am eager to collaborate on creative projects and learn from like-minded individuals. Open to internships, projects, and networking opportunities, I am looking forward to contributing and growing in this industry.</p>  
+<h3 align="center">Computer Science Student | Cairo University</h3>
 
-## Connect with me
+<p align="center">
+  Passionate about <strong>Data Analysis</strong>, <strong>BI Development</strong>, <strong>Web Development</strong>, and <strong>Data Science</strong>. <br/>
+  I'm always eager to learn, explore innovative ideas, and collaborate on meaningful projects. <br/>
+  Looking for internship opportunities, real-world experience, and networking with like-minded individuals.
+</p>
 
-<p align="left" style="margin: 0; padding: 0;">
-  <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank" style="display: block; margin-right: 10px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;" />
-      
+---
+
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
   </a>
-  <a href="mailto:saramohamed2315@gmail.com" style="display: block; margin-left: 20px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-left:30px;" />
+  &nbsp;&nbsp;
+  <a href="mailto:saramohamed2315@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
   </a>
 </p>
 
-## Languages and Tools:
+---
+
+## 💻 Languages & Tools:
+
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,cpp,py,clion,visualstudio,vscode)](https://skillicons.dev)
-<img height="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
-<br/>
-
-<div align='center'>
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=github_dark">
-        <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright">
-      </picture>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&theme=tokyonight" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+  <!-- Main languages and frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,cs,java,laravel,django,vscode,clion,visualstudio,git" alt="Skills" />
+  <br/><br/>
+  <!-- Additional tools not in skillicons.dev -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-B57EDC?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQL Server" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SSIS-00CFFF?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SSIS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tableau-FF6F91?logo=tableau&logoColor=white&style=for-the-badge" alt="Tableau" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-40E0D0?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" />
 </div>
-<br>
 
+---
 
+## 📊 GitHub Stats:
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
