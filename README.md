@@ -57,5 +57,6 @@
       </td>
     </tr>
   </table>
+  <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" height="150"/>
 </div>
 
