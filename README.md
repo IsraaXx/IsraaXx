@@ -53,7 +53,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=10&theme=radical" height="150"/>
       </td>
     </tr>
   </table>
