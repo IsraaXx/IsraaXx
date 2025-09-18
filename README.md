@@ -50,7 +50,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=nord_bright" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=10&theme=radical" height="150"/>
