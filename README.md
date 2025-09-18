@@ -43,7 +43,19 @@
 </div>
 
 ---
-
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/IsraaXx/Hospital-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-Management-System&theme=radical" />
+  </a>
+  <a href="https://github.com/IsraaXx/BOOKTOPIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" />
+  </a>
+  <a href="https://github.com/IsraaXx/FIFA-WorldCup-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" />
+  </a>
+</p>
+---
 ## 📊 GitHub Stats:
 
 <div align="center">
