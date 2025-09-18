@@ -56,8 +56,8 @@
   </a>
 </p>
 ---
-## 📊 GitHub Stats:
 
+## 📊 GitHub Stats:
 <div align="center">
   <table>
     <tr>
