@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&color=f75c7e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Israa+Mohamed;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Computer Science Student | Cairo University</h3>
+<h3 align="center">Senior Computer Science Student | Cairo University</h3>
 
 <p align="center">
-  Passionate about <strong>Data Analysis</strong>, <strong>BI Development</strong>, <strong>Web Development</strong>, and <strong>Data Science</strong>. <br/>
-  I'm always eager to learn, explore innovative ideas, and collaborate on meaningful projects. <br/>
-  Looking for internship opportunities, real-world experience, and networking with like-minded individuals.
+  Passionate about <strong>Business Intelligence</strong>, <strong>Data Analysis</strong>, and <strong>Backend Development</strong>. <br/>
+  Always eager to learn, explore innovative ideas, and collaborate on impactful projects. <br/>
+  Currently seeking internship opportunities, real-world experience, and networking with like-minded individuals.
 </p>
 
 ---
