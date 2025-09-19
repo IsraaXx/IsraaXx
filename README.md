@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&color=f75c7e&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Israa+Mohamed;" alt="Typing SVG" />
-</h1>
+![banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Israa%20Mohamed&desc=Always%20Learning,%20Always%20Growing&fontAlignY=40&descAlignY=65)
 
 <h3 align="center">Senior Computer Science Student | Cairo University</h3>
 
