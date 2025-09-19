@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=000000&fontSize=60&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=25& animation=twinkling)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=000000&fontSize=60&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=25&animation=twinkling)
 
 <h3 align="center">Senior Computer Science Student | Cairo University</h3>
 
