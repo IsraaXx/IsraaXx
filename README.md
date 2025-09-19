@@ -16,11 +16,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:israamohamed2315@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
   </a>
 </p>
 
