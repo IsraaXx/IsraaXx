@@ -62,9 +62,6 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=12&theme=radical" style="height: 230px;" width="300"/>
-  
-  <br/><br/>
-  
   <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" height="150"/>
 
 </div>
