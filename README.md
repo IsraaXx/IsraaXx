@@ -30,7 +30,7 @@
 
 <div align="center">
   <!-- Main languages and frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,cs,java,laravel,django,vscode,clion,visualstudio,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,spring,java,laravel,django,vscode,clion,visualstudio,git" alt="Skills" />
   <br/><br/>
   <!-- Additional tools not in skillicons.dev -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-B57EDC?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQL Server" />
