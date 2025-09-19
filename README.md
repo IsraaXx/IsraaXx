@@ -11,26 +11,19 @@
 </p>
 
 ---
+
 ## 🌐 Connect with Me:
 
-<style>
-  .social-icons a img {
-    transition: transform 0.2s ease-in-out;
-  }
-  .social-icons a:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
-<p align="center" class="social-icons">
+<p align="center">
   <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:israamohamed2315@gmail.com">
+  <a href="mailto:saramohamed2315@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45"/>
   </a>
 </p>
+
 
 ---
 ## 💻 Languages & Tools:
