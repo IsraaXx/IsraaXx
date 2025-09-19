@@ -57,17 +57,16 @@
 
 ---
 ## 📊 GitHub Stats:
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=12&theme=radical" height="150"/>
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=12&theme=radical" height="150"/>
+  
+  <br/><br/>
+  
   <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" height="150"/>
+
 </div>
+
 
