@@ -24,6 +24,7 @@
 
 
 ---
+
 ## 💻 Languages & Tools:
 
 <div align="center">
@@ -41,6 +42,7 @@
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/IsraaXx/Hospital-Management-System">
@@ -56,6 +58,7 @@
 
 
 ---
+
 ## 📊 GitHub Stats:
 
 <div align="center">
