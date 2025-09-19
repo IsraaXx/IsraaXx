@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:saramohamed2315@gmail.com">
+  <a href="mailto:israamohamed2315@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45"/>
   </a>
 </p>
