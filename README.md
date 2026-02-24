@@ -45,14 +45,16 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/IsraaXx/Hospital-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-Management-System&theme=radical" />
+  <a href="https://github.com/IsraaXx/Hospital-System-Backend">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-System-Backend&theme=radical" alt="Hospital System Backend - BM" />
   </a>
+  <br/><br/>
   <a href="https://github.com/IsraaXx/BOOKTOPIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" alt="Booktopia" />
   </a>
+  <br/><br/>
   <a href="https://github.com/IsraaXx/FIFA-WorldCup-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" alt="FIFA WorldCup Dashboard" />
   </a>
 </p>
 
