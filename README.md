@@ -1,27 +1,40 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=000000&fontSize=60&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=25)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=25)
 
-<h3 align="center">Senior Computer Science Student | Cairo University</h3>
+<div align="center">
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Senior+Computer+Science+Student;Backend+Developer;Data+Analyst" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  Passionate about <strong>Business Intelligence</strong>, <strong>Data Analysis</strong>, and <strong>Backend Development</strong>. <br/>
-  Always eager to learn, explore innovative ideas, and collaborate on impactful projects. <br/>
+  🎓 <strong>Senior Computer Science Student at Cairo University</strong> <br><br>
+  Always eager to learn, explore innovative ideas, and collaborate on impactful projects.<br>
   Currently seeking internship opportunities, real-world experience, and networking with like-minded individuals.
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-40E0D0?style=for-the-badge&logo=powerbi&logoColor=black" alt="BI" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F91?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Backend%20Development-B57EDC?style=for-the-badge&logo=spring&logoColor=white" alt="Backend" />
+</div>
+
+<br/>
+
 ---
 
-## 🌐 Connect with Me:
-
-<p align="center">
+<div align="center">
+  <h3>Let's Connect! </h3>
   <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:israamohamed2315@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
+</div>
 
 ---
 
