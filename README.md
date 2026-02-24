@@ -18,9 +18,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Business%20Intelligence-40E0D0?style=for-the-badge&logo=powerbi&logoColor=black" alt="BI" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F91?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Backend%20Development-B57EDC?style=for-the-badge&logo=spring&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-1976D2?style=flat&logo=powerbi&logoColor=white" alt="BI" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-009688?style=flat&logo=pandas&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Backend%20Development-388E3C?style=flat&logo=spring&logoColor=white" alt="Backend" />
 </div>
 
 <br/>
@@ -47,13 +47,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,spring,java,laravel,django,vscode,clion,visualstudio,git" alt="Skills" />
   <br/><br/>
   <!-- Additional tools not in skillicons.dev -->
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-B57EDC?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?logo=microsoftsqlserver&logoColor=white&style=flat" alt="SQL Server" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SSIS-00CFFF?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SSIS" />
+  <img src="https://img.shields.io/badge/SSIS-005B96?logo=microsoftsqlserver&logoColor=white&style=flat" alt="SSIS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Tableau-FF6F91?logo=tableau&logoColor=white&style=for-the-badge" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" alt="Tableau" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-40E0D0?logo=powerbi&logoColor=black&style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" alt="Power BI" />
 </div>
 
 ---
