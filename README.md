@@ -62,13 +62,12 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsraaXx&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" alt="GitHub Streak" />
-</div>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=12&theme=radical" style="height: 230px;" width="300"/>
+
+  <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" height="150"/>
+
+</div>
 
