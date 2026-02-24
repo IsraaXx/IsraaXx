@@ -44,19 +44,35 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/IsraaXx/Hospital-System-Backend">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-System-Backend&theme=radical" alt="Hospital System Backend - BM" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/IsraaXx/BOOKTOPIA">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" alt="Booktopia" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/IsraaXx/FIFA-WorldCup-Dashboard">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" alt="FIFA WorldCup Dashboard" />
-  </a>
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/IsraaXx/Hospital-System-Backend">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-System-Backend&theme=radical" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/IsraaXx/E-Commerce-Order-Management-System">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=E-Commerce-Order-Management-System&theme=radical" width="400" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/IsraaXx/BOOKTOPIA">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/IsraaXx/FIFA-WorldCup-Dashboard">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
