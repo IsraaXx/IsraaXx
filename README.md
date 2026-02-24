@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=25)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Israa%20Mohamed&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Always%20Learning,%20Always%20Growing&descAlignY=65&descSize=20)
 
 <div align="center">
   <br/>
