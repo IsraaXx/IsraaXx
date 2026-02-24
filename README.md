@@ -9,11 +9,13 @@
 
 <br/>
 
-<p align="center">
-  🎓 <strong>Senior Computer Science Student at Cairo University</strong> <br><br>
-  Always eager to learn, explore innovative ideas, and collaborate on impactful projects.<br>
-  Currently seeking internship opportunities, real-world experience, and networking with like-minded individuals.
-</p>
+<div align="center">
+  <h2>🎓 Senior Computer Science Student at Cairo University</h2>
+  <p>
+    Always eager to learn, explore innovative ideas, and collaborate on impactful projects.<br>
+    Currently seeking internship opportunities, real-world experience, and networking with like-minded individuals.
+  </p>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Business%20Intelligence-40E0D0?style=for-the-badge&logo=powerbi&logoColor=black" alt="BI" />
