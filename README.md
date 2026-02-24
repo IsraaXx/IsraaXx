@@ -65,7 +65,7 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsraaXx&theme=radical"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=12&theme=radical" style="height: 230px;" width="300"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsraaXx&layout=compact&langs_count=10&theme=radical" height="230px" width="300" alt="Top Langs" />
 
   <img src="https://streak-stats.demolab.com?user=IsraaXx&theme=radical" height="150"/>
 
