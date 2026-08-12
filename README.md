@@ -3,17 +3,17 @@
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Senior+Computer+Science+Student;Backend+Developer;Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Backend+Developer;Data+Analyst" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>🎓 Senior Computer Science Student at Cairo University</h2>
+  <h2>🎓 Computer Science Graduate from Cairo University</h2>
   <p>
     Always eager to learn, explore innovative ideas, and collaborate on impactful projects.<br>
-    Currently seeking internship opportunities, real-world experience, and networking with like-minded individuals.
+    Currently looking for opportunities to grow as a software engineer, gain real-world experience, and contribute to meaningful projects.
   </p>
 </div>
 
@@ -27,8 +27,9 @@
 
 ---
 
+## 📫 Let's Connect!
+
 <div align="center">
-  <h3>Let's Connect! </h3>
   <a href="https://www.linkedin.com/in/israamohamed-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -44,7 +45,7 @@
 
 <div align="center">
   <!-- Main languages and frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,spring,java,laravel,django,vscode,clion,visualstudio,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,spring,django,fastapi,vscode,clion,git,docker" alt="Skills" />
   <br/><br/>
   <!-- Additional tools not in skillicons.dev -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?logo=microsoftsqlserver&logoColor=white&style=flat" alt="SQL Server" />
@@ -64,25 +65,25 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/IsraaXx/Hospital-System-Backend">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=Hospital-System-Backend&theme=radical" width="400" />
+        <a href="https://github.com/SpendooApp/Spendoo-backend">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SpendooApp&repo=Spendoo-backend&theme=radical" width="400" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/IsraaXx/E-Commerce-Order-Management-System">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=E-Commerce-Order-Management-System&theme=radical" width="400" />
+        <a href="https://github.com/IsraaXx/ZeroCode-ML">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=ZeroCode-ML&theme=radical" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/IsraaXx/BOOKTOPIA">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" width="400" />
+        <a href="https://github.com/IsraaXx/Ecommerce-Data-Warehouse">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=Ecommerce-Data-Warehouse&theme=radical" width="400" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/IsraaXx/FIFA-WorldCup-Dashboard">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=FIFA-WorldCup-Dashboard&theme=radical" width="400" />
+        <a href="https://github.com/IsraaXx/BOOKTOPIA">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IsraaXx&repo=BOOKTOPIA&theme=radical" width="400" />
         </a>
       </td>
     </tr>
